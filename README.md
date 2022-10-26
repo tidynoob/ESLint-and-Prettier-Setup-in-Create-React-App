@@ -85,3 +85,5 @@ Add in the following lines:
   "eslint.alwaysShowStatus": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
 ```
+
+With these settings, prettier will format everything besides .js files (on save or with CTRL+ALT+F). ESLint will handle js files on save (don't use CTRL+ALT+F).
