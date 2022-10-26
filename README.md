@@ -82,8 +82,5 @@ Add in the following lines:
   "eslint.codeAction.showDocumentation": {
     "enable": true
   },
-  "eslint.alwaysShowStatus": true,
-  "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  "eslint.alwaysShowStatus": true
 ```
