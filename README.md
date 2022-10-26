@@ -1,5 +1,3 @@
-# ESLint-and-Prettier-Setup-in-Create-React-App
-
 # Setup ESLint and Prettier for React
 
 ## Initialize ESLint
