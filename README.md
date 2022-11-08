@@ -1,5 +1,7 @@
 # Setup ESLint and Prettier for React
 
+Also see [this guide](https://github.com/paulolramos/eslint-prettier-airbnb-react)
+
 ## Initialize ESLint
 
 ```bash
